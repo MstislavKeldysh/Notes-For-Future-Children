@@ -21,4 +21,5 @@ The Slack server is also used to proofread my content before any of it gets post
 
 That is also the best place to contact me directly.
 
-Ivan Ovchinnikov, Bayview 2021 graduate. Currently: Math & Physics Undergraduate at UofT
+Ivan Ovchinnikov, Bayview 2021 graduate. 
+Currently: Math & Physics Undergraduate at UofT
